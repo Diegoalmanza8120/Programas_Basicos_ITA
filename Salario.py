@@ -1,4 +1,4 @@
-#Salarios Juan Diego Almanza Veloz
+#Salarios Juan Diego Almanza Veloz ||
 
 salario_bruto = float(input("Ingresa tu salario bruto: "))
 p_impuestos = float(input("Ingrese el porcentaje de impuestos: "))
