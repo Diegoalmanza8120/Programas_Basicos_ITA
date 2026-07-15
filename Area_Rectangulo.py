@@ -1,4 +1,4 @@
-#Area del rectángulo Juan Diego Almanza Veloz
+#Area del rectángulo Juan Diego Almanza Veloz ||
 
 base = float(input("Ingresa la base: "))
 altura = float(input("Ingresar la altura:"))
