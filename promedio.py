@@ -1,4 +1,4 @@
-#Promedio de 3 Numeros Juan Diego Almanza Veloz
+#Promedio de 3 Numeros Juan Diego Almanza Veloz ||
 
 n1 = float(input("Ingresa el primer número: "))
 n2 = float(input("Ingresa el segundo número: "))
